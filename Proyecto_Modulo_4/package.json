@@ -1,0 +1,22 @@
+{
+  "name": "proyecto_modulo_4",
+  "version": "1.0.0",
+  "description": "Aplicación del clima con Node.js, Express y WeatherStack",
+  "main": "app.js",
+    "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "Jorge Flores",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.2.1",
+    "hbs": "^4.2.1",
+    "postman-request": "^2.88.1-postman.48"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
